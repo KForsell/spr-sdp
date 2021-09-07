@@ -1,0 +1,8 @@
+{
+  "name": "SPR-SDP",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "48e9ffd2"
+}
